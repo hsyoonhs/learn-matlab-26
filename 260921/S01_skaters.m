@@ -4,4 +4,4 @@ skating_results = [1 68.89
     4 68.39
     5 68.43];
 
-sort(skating_results)
+sortrows(skating_results, 2)
